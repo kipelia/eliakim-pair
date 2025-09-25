@@ -1,4 +1,4 @@
-# 🚀 Malvin-Session-Generator
+# 🚀 Eliakim-Session-Generator
 
 ## 📊 Visitor Counter
 
@@ -10,7 +10,7 @@
 
 ## 💡 Fork This Project
 
-[![Fork Repo](https://img.shields.io/badge/FORK-REPO-black?style=for-the-badge&logo=github)](https://github.com/XdKing2/malvin-pair/fork)
+[![Fork Repo](https://img.shields.io/badge/FORK-REPO-black?style=for-the-badge&logo=github)](https://github.com/kipelia/eliakim-pair)
 
 Generate session IDs for WhatsApp bots using [`@whiskeysockets/baileys`](https://github.com/whiskeysockets/baileys), with secure **MEGA** cloud storage and a fast web QR login.
 
